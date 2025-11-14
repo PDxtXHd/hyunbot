@@ -10,12 +10,12 @@ const SESSION_HEADER_INTERVAL = 10 * 60 * 1000;
 
 const NOTIFY_INTERVAL = 3600 * 1000;
 const ENABLE_INSTANT_CONFIRM = false;
-const START_MSG_ZH_URL = 'https://raw.githubusercontent.com/Tsaihyun/hyunbot/refs/heads/main/data/startMessage.zh.md';
-const START_MSG_EN_URL = 'https://raw.githubusercontent.com/Tsaihyun/hyunbot/refs/heads/main/data/startMessage.en.md';
+const START_MSG_ZH_URL = 'https://raw.githubusercontent.com/PDxtXHd/hyunbot/refs/heads/main/data/startMessage.zh.md';
+const START_MSG_EN_URL = 'https://raw.githubusercontent.com/PDxtXHd/hyunbot/refs/heads/main/data/startMessage.en.md';
 const ENABLE_NOTIFICATION = true;
 const ENABLE_KEYWORD_FILTER = true;
 const KEYWORD_STORE_KEY = 'kw-list';
-const DEFAULT_BLOCKLIST_URL = 'https://raw.githubusercontent.com/Tsaihyun/hyunbot/refs/heads/main/data/blocklist.txt';
+const DEFAULT_BLOCKLIST_URL = 'https://raw.githubusercontent.com/PDxtXHd/hyunbot/refs/heads/main/data/blocklist.txt';
 const BLOCKLIST_REFRESH_MS = 15 * 60 * 1000;
 const REMOTE_CACHE_KEY = 'blocked-words-cache';
 const REMOTE_ETAG_KEY = 'blocked-words-etag';
